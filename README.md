@@ -1,2 +1,2 @@
 # shredder2
-This is my second repository
+This is my second repository. I am now going to create something new...
